@@ -14838,3 +14838,51 @@ select option {
 .slideNav__item a {
     color: #abadb5
 }
+
+
+.container_abc {
+    display: flex; /* Use flex display to make the divs stand side by side */
+    align-items: center; /* Center items vertically within the container */
+}
+
+.one_abc {
+    margin-right: 10px; /* Add some space between the two divs */
+}
+
+.container_email {
+    display: flex; /* Use flex display to make the divs stand side by side */
+    align-items: center; /* Center items vertically within the container */
+}
+
+.elink {
+    margin-right: 8px; /* Add some space between the two divs */
+}
+.elogo {
+    margin-top: 6.7px; /* Add some space between the two divs */
+}
+
+.container_download {
+    display: flex; /* Use flex display to make the divs stand side by side */
+    align-items: center; /* Center items vertically within the container */
+}
+
+.dtext {
+    margin-right: 7px;
+}
+
+.dlogo {
+    margin-top: 6px;
+}
+
+.container_location {
+    display: flex; /* Use flex display to make the divs stand side by side */
+    align-items: center; /* Center items vertically within the container */
+}
+
+.ltext {
+    margin-right: 6.5px;
+}
+
+.llogo {
+    margin-top: 24.5px;
+}
