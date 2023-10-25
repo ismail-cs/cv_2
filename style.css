@@ -12792,11 +12792,11 @@ button:focus {
     }
 }
 
-.nav__item a {
+.nav__item a {                 
     background-color: #f7f9fa;
     border-radius: 1.25rem;
     color: #5e6e80;
-    font-size: .875rem;
+    font-size: 3em;             /*  about, resume, portfolio, blog, contract  logo and text*/
     font-weight: 500;
     display: flex;
     flex-direction: column;
@@ -12806,6 +12806,11 @@ button:focus {
     position: relative;
     text-decoration: none;
     transition: all 0s
+}
+
+.nav__item .mtext {              
+    margin-top: 8px;
+    font-size: 0.35em;           /*  about, resume, portfolio, blog, contract  text  */
 }
 
 .nav__item a>* {
@@ -12819,13 +12824,25 @@ button:focus {
 @media only screen and (max-width:1200px) {
     .nav__item a {
         border-radius: 1rem;
-        font-size: .75rem
+        font-size: 2em                           /*  tablet view icon size */
+    }
+}
+
+@media only screen and (max-width:1200px) {
+    .nav__item .mtext {
+        font-size: 0.4em                           /*  tablet view text size*/
     }
 }
 
 @media only screen and (max-width:768px) {
     .nav__item a {
-        font-size: .6875rem
+        font-size: 1.4em                          /* mobile view logo*/
+    }
+}
+
+@media only screen and (max-width:768px) {
+    .nav__item .mtext {
+        font-size: 0.52em                          /* mobile view logo*/
     }
 }
 
@@ -12860,29 +12877,29 @@ button:focus {
     }
 }
 
-.nav__item [class^=icon-] {
+.nav__item [class^=iconify-] {
     display: block;
-    font-size: 2.25rem;
+    font-size: 0.5em;
     margin-top: .25rem;
     margin-bottom: .5rem
 }
 
 @media only screen and (max-width:1200px) {
-    .nav__item [class^=icon-] {
-        font-size: 1.75rem;
+    .nav__item [class^=iconify-] {
+        font-size: 0.5em;
         margin-bottom: .25rem
     }
 }
 
 @media only screen and (max-width:768px) {
-    .nav__item [class^=icon-] {
-        font-size: 1.5rem
+    .nav__item [class^=iconify-] {
+        font-size: 0.5em
     }
 }
 
 @media only screen and (max-width:580px) {
-    .nav__item [class^=icon-] {
-        font-size: 1.0625rem;
+    .nav__item [class^=iconify-] {
+        font-size: 0.5em;
         margin-top: .375rem
     }
 }
