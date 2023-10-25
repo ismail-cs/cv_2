@@ -12836,13 +12836,13 @@ button:focus {
 
 @media only screen and (max-width:768px) {
     .nav__item a {
-        font-size: 1.4em                          /* mobile view logo*/
+        font-size: 1.8em                          /* mobile view logo*/
     }
 }
 
 @media only screen and (max-width:768px) {
     .nav__item .mtext {
-        font-size: 0.52em                          /* mobile view logo*/
+        font-size: 0.55em                          /* mobile view logo*/
     }
 }
 
