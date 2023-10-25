@@ -440,14 +440,14 @@
                 },
                 metaInfo() {
                     return {
-                        title: "Adityacprtm | DevOps - SRE - Cloud Engineer",
+                        title: "Ismail",
                         htmlAttrs: {
                             lang: "en"
                         },
                         meta: [{
                             vmid: "description",
                             name: "description",
-                            content: "Get to know Aditya Chamim Pratama | Adityacprtm | DevOps - SRE - Cloud Engineer"
+                            content: "Get to know Md. Ismail Khalil | Ismail | DevOps - SRE - Cloud Engineer"
                         }, {
                             name: "twitter:card",
                             content: "summary_large_image"
@@ -467,7 +467,7 @@
                         }, {
                             vmid: "twitter:description",
                             name: "twitter:description",
-                            content: "Get to know Aditya Chamim Pratama | Adityacprtm | DevOps - SRE - Cloud Engineer"
+                            content: "Get to know Md. Ismail Khalil | Ismail | DevOps - SRE - Cloud Engineer"
                         }, {
                             vmid: "twitter:image",
                             name: "twitter:image",
@@ -475,7 +475,7 @@
                         }, {
                             vmid: "og:title",
                             property: "og:title",
-                            content: "Adityacprtm | DevOps - SRE - Cloud Engineer"
+                            content: "Ismail | DevOps - SRE - Cloud Engineer"
                         }, {
                             property: "og:type",
                             content: "website"
@@ -489,7 +489,7 @@
                         }, {
                             vmid: "og:description",
                             property: "og:description",
-                            content: "Get to know Aditya Chamim Pratama | Adityacprtm | DevOps - SRE - Cloud Engineer"
+                            content: "Get to know Md. Ismail Khalil | Ismail | DevOps - SRE - Cloud Engineer"
                         }, {
                             property: "og:site_name",
                             content: "adityacprtm.dev"
@@ -637,7 +637,7 @@
                     return t ? t.formats && t.formats[e] ? t.formats[e].url : t.url : "/static/social.jpg"
                 },
                 getImageAlt(t) {
-                    return t ? t.alternativeText ? t.alternativeText : t.title : "Adityacprtm"
+                    return t ? t.alternativeText ? t.alternativeText : t.title : "Ismail"
                 },
                 openUrl(t) {
                     window.open(t, "_blank", "noopener")
@@ -646,7 +646,7 @@
         }
     },
     ac2c: function(t) {
-        t.exports = JSON.parse('{"data":{"id":1,"firstName":"Aditya","middleName":null,"lastName":"Pratama","headline":"DevOps | SRE | Cloud Engineer","email":"aditya@adityacprtm.dev","address":"Jakarta, ID","profileImage":{"id":1,"name":"profile.jpg","alternativeText":"profile.jpg","caption":"profile.jpg","width":1080,"height":1080,"formats":{"large":{"ext":".jpg","url":"https://res.cloudinary.com/adityacprtm/image/upload/v1659200379/production/large_profile_6832daf094.jpg","hash":"large_profile_6832daf094","mime":"image/jpeg","name":"large_profile.jpg","path":null,"size":69.08,"width":1000,"height":1000,"provider_metadata":{"public_id":"production/large_profile_6832daf094","resource_type":"image"}},"small":{"ext":".jpg","url":"https://res.cloudinary.com/adityacprtm/image/upload/v1659200380/production/small_profile_6832daf094.jpg","hash":"small_profile_6832daf094","mime":"image/jpeg","name":"small_profile.jpg","path":null,"size":24.69,"width":500,"height":500,"provider_metadata":{"public_id":"production/small_profile_6832daf094","resource_type":"image"}},"medium":{"ext":".jpg","url":"https://res.cloudinary.com/adityacprtm/image/upload/v1659200380/production/medium_profile_6832daf094.jpg","hash":"medium_profile_6832daf094","mime":"image/jpeg","name":"medium_profile.jpg","path":null,"size":44.82,"width":750,"height":750,"provider_metadata":{"public_id":"production/medium_profile_6832daf094","resource_type":"image"}},"thumbnail":{"ext":".jpg","url":"https://res.cloudinary.com/adityacprtm/image/upload/v1659200379/production/thumbnail_profile_6832daf094.jpg","hash":"thumbnail_profile_6832daf094","mime":"image/jpeg","name":"thumbnail_profile.jpg","path":null,"size":4.64,"width":156,"height":156,"provider_metadata":{"public_id":"production/thumbnail_profile_6832daf094","resource_type":"image"}}},"hash":"profile_6832daf094","ext":".jpg","mime":"image/jpeg","size":77.56,"url":"https://res.cloudinary.com/adityacprtm/image/upload/v1659200378/production/profile_6832daf094.jpg","previewUrl":null,"provider":"cloudinary","provider_metadata":{"public_id":"production/profile_6832daf094","resource_type":"image"},"createdAt":"2022-07-30T16:59:40.790Z","updatedAt":"2023-10-01T03:28:04.826Z"}},"meta":{}}')
+        t.exports = JSON.parse('{"data":{"id":1,"firstName":"Md.","middleName":"Ismail","lastName":"Khalil","headline":"DevOps | SRE | Cloud Engineer","email":"ismail.k.aiub@gmail.com","address":"Jakarta, ID","profileImage":{"id":1,"name":"profile.jpg","alternativeText":"profile.jpg","caption":"profile.jpg","width":1080,"height":1080,"formats":{"large":{"ext":".jpg","url":"https://res.cloudinary.com/adityacprtm/image/upload/v1659200379/production/large_profile_6832daf094.jpg","hash":"large_profile_6832daf094","mime":"image/jpeg","name":"large_profile.jpg","path":null,"size":69.08,"width":1000,"height":1000,"provider_metadata":{"public_id":"production/large_profile_6832daf094","resource_type":"image"}},"small":{"ext":".jpg","url":"https://res.cloudinary.com/adityacprtm/image/upload/v1659200380/production/small_profile_6832daf094.jpg","hash":"small_profile_6832daf094","mime":"image/jpeg","name":"small_profile.jpg","path":null,"size":24.69,"width":500,"height":500,"provider_metadata":{"public_id":"production/small_profile_6832daf094","resource_type":"image"}},"medium":{"ext":".jpg","url":"https://res.cloudinary.com/adityacprtm/image/upload/v1659200380/production/medium_profile_6832daf094.jpg","hash":"medium_profile_6832daf094","mime":"image/jpeg","name":"medium_profile.jpg","path":null,"size":44.82,"width":750,"height":750,"provider_metadata":{"public_id":"production/medium_profile_6832daf094","resource_type":"image"}},"thumbnail":{"ext":".jpg","url":"https://res.cloudinary.com/adityacprtm/image/upload/v1659200379/production/thumbnail_profile_6832daf094.jpg","hash":"thumbnail_profile_6832daf094","mime":"image/jpeg","name":"thumbnail_profile.jpg","path":null,"size":4.64,"width":156,"height":156,"provider_metadata":{"public_id":"production/thumbnail_profile_6832daf094","resource_type":"image"}}},"hash":"profile_6832daf094","ext":".jpg","mime":"image/jpeg","size":77.56,"url":"https://res.cloudinary.com/adityacprtm/image/upload/v1659200378/production/profile_6832daf094.jpg","previewUrl":null,"provider":"cloudinary","provider_metadata":{"public_id":"production/profile_6832daf094","resource_type":"image"},"createdAt":"2022-07-30T16:59:40.790Z","updatedAt":"2023-10-01T03:28:04.826Z"}},"meta":{}}')
     },
     c78c: function(t, e, a) {}
 });
