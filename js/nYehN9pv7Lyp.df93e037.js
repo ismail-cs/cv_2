@@ -533,7 +533,7 @@
                     },
                     metaInfo() {
                         return {
-                            title: this.blog.meta ? this.blog.meta.title + " | Blog | Adityacprtm" : "Blog | Adityacprtm | DevOps - SRE - Cloud Engineer",
+                            title: this.blog.meta ? this.blog.meta.title + " | Blog | Adityacprtm" : "Blog | Ismail",
                             meta: [{
                                 vmid: "description",
                                 name: "description",
@@ -541,7 +541,7 @@
                             }, {
                                 vmid: "twitter:title",
                                 property: "twitter:title",
-                                content: this.blog.meta ? this.blog.meta.title + " | Blog | Adityacprtm" : "Adityacprtm | DevOps - SRE - Cloud Engineer"
+                                content: this.blog.meta ? this.blog.meta.title + " | Blog | Adityacprtm" : "Ismail"
                             }, {
                                 vmid: "twitter:description",
                                 property: "twitter:description",
@@ -553,7 +553,7 @@
                             }, {
                                 vmid: "og:title",
                                 property: "og:title",
-                                content: this.blog.meta ? this.blog.meta.title + " | Blog | Adityacprtm" : "Adityacprtm | DevOps - SRE - Cloud Engineer"
+                                content: this.blog.meta ? this.blog.meta.title + " | Blog | Adityacprtm" : "Ismail"
                             }, {
                                 vmid: "og:description",
                                 property: "og:description",
@@ -925,7 +925,7 @@
                         return {
                             page: {
                                 meta: {
-                                    title: "Resume | Adityacprtm | DevOps - SRE - Cloud Engineer",
+                                    title: "Resume | Ismail",
                                     description: "Check out some info on my Resume to get to know me more deeply. Resume Adityacprtm."
                                 }
                             },
@@ -965,7 +965,7 @@
                     },
                     metaInfo() {
                         return {
-                            title: this.page.meta ? this.page.meta.title : "Resume | Adityacprtm | DevOps - SRE - Cloud Engineer",
+                            title: this.page.meta ? this.page.meta.title : "Resume | Ismail",
                             meta: [{
                                 vmid: "description",
                                 name: "description",
@@ -973,7 +973,7 @@
                             }, {
                                 vmid: "twitter:title",
                                 name: "twitter:title",
-                                content: this.page.meta ? this.page.meta.title : "Resume | Adityacprtm | DevOps - SRE - Cloud Engineer"
+                                content: this.page.meta ? this.page.meta.title : "Resume | Ismail"
                             }, {
                                 vmid: "twitter:description",
                                 name: "twitter:description",
@@ -981,7 +981,7 @@
                             }, {
                                 vmid: "og:title",
                                 property: "og:title",
-                                content: this.page.meta ? this.page.meta.title : "Resume | Adityacprtm | DevOps - SRE - Cloud Engineer"
+                                content: this.page.meta ? this.page.meta.title : "Resume | Ismail"
                             }, {
                                 vmid: "og:description",
                                 property: "og:description",
@@ -1507,7 +1507,7 @@
                     },
                     metaInfo() {
                         return {
-                            title: this.series.title ? this.series.title : "Blog Series | Adityacprtm | DevOps - SRE - Cloud Engineer",
+                            title: this.series.title ? this.series.title : "Blog Series | Ismail",
                             meta: [{
                                 vmid: "description",
                                 name: "description",
@@ -1515,7 +1515,7 @@
                             }, {
                                 vmid: "twitter:title",
                                 name: "twitter:title",
-                                content: this.series.title ? this.series.title : "Blog Series | Adityacprtm | DevOps - SRE - Cloud Engineer"
+                                content: this.series.title ? this.series.title : "Blog Series | Ismail"
                             }, {
                                 vmid: "twitter:description",
                                 name: "twitter:description",
@@ -1523,7 +1523,7 @@
                             }, {
                                 vmid: "og:title",
                                 property: "og:title",
-                                content: this.series.title ? this.series.title : "Blog | Adityacprtm | DevOps - SRE - Cloud Engineer"
+                                content: this.series.title ? this.series.title : "Blog | Ismail"
                             }, {
                                 vmid: "og:description",
                                 property: "og:description",
@@ -2195,7 +2195,7 @@
                         return {
                             page: {
                                 meta: {
-                                    title: "Journey | Adityacprtm | DevOps - SRE - Cloud Engineer",
+                                    title: "Journey | Ismail",
                                     description: "Look at my journey in building this portfolio website. Start from hard code to dynamic website."
                                 }
                             },
@@ -2211,7 +2211,7 @@
                     methods: {},
                     metaInfo() {
                         return {
-                            title: this.page.meta ? this.page.meta.title : "Journey | Adityacprtm | DevOps - SRE - Cloud Engineer",
+                            title: this.page.meta ? this.page.meta.title : "Journey | Ismail",
                             meta: [{
                                 vmid: "description",
                                 name: "description",
@@ -2219,7 +2219,7 @@
                             }, {
                                 vmid: "twitter:title",
                                 name: "twitter:title",
-                                content: this.page.meta ? this.page.meta.title : "Journey | Adityacprtm | DevOps - SRE - Cloud Engineer"
+                                content: this.page.meta ? this.page.meta.title : "Journey | Ismail"
                             }, {
                                 vmid: "twitter:description",
                                 name: "twitter:description",
@@ -2227,7 +2227,7 @@
                             }, {
                                 vmid: "og:title",
                                 property: "og:title",
-                                content: this.page.meta ? this.page.meta.title : "Journey | Adityacprtm | DevOps - SRE - Cloud Engineer"
+                                content: this.page.meta ? this.page.meta.title : "Journey | Ismail"
                             }, {
                                 vmid: "og:description",
                                 property: "og:description",
@@ -3100,7 +3100,7 @@
                         return {
                             page: {
                                 meta: {
-                                    title: "Contact | Adityacprtm | DevOps - SRE - Cloud Engineer",
+                                    title: "Contact | Ismail",
                                     description: "Contact me here. Either fill out the form on this page or find one of the other contact methods listed to reach me that way. Contact Adityacprtm."
                                 }
                             },
@@ -3183,7 +3183,7 @@
                     },
                     metaInfo() {
                         return {
-                            title: this.page.meta ? this.page.meta.title : "Contact | Adityacprtm | DevOps - SRE - Cloud Engineer",
+                            title: this.page.meta ? this.page.meta.title : "Contact | Ismail",
                             meta: [{
                                 vmid: "description",
                                 name: "description",
@@ -3191,7 +3191,7 @@
                             }, {
                                 vmid: "twitter:title",
                                 name: "twitter:title",
-                                content: this.page.meta ? this.page.meta.title : "Contact | Adityacprtm | DevOps - SRE - Cloud Engineer"
+                                content: this.page.meta ? this.page.meta.title : "Contact | Ismail"
                             }, {
                                 vmid: "twitter:description",
                                 name: "twitter:description",
@@ -3199,7 +3199,7 @@
                             }, {
                                 vmid: "og:title",
                                 property: "og:title",
-                                content: this.page.meta ? this.page.meta.title : "Contact | Adityacprtm | DevOps - SRE - Cloud Engineer"
+                                content: this.page.meta ? this.page.meta.title : "Contact | Ismail"
                             }, {
                                 vmid: "og:description",
                                 property: "og:description",
@@ -3483,7 +3483,7 @@
                         return {
                             page: {
                                 meta: {
-                                    title: "Portfolio | Adityacprtm | DevOps - SRE - Cloud Engineer",
+                                    title: "Portfolio | Ismail",
                                     description: "View some of the fun projects I have developed and certifications I have achieved. Some of the technologies used are Node.js, Laravel, Cloud and more. Portfolio Adityacprtm."
                                 }
                             },
@@ -3518,7 +3518,7 @@
                     },
                     metaInfo() {
                         return {
-                            title: this.page.meta ? this.page.meta.title : "Portfolio | Adityacprtm | DevOps - SRE - Cloud Engineer",
+                            title: this.page.meta ? this.page.meta.title : "Portfolio | Ismail",
                             meta: [{
                                 vmid: "description",
                                 name: "description",
@@ -3526,7 +3526,7 @@
                             }, {
                                 vmid: "twitter:title",
                                 name: "twitter:title",
-                                content: this.page.meta ? this.page.meta.title : "Portfolio | Adityacprtm | DevOps - SRE - Cloud Engineer"
+                                content: this.page.meta ? this.page.meta.title : "Portfolio | Ismail"
                             }, {
                                 vmid: "twitter:description",
                                 name: "twitter:description",
@@ -3534,7 +3534,7 @@
                             }, {
                                 vmid: "og:title",
                                 property: "og:title",
-                                content: this.page.meta ? this.page.meta.title : "Portfolio | Adityacprtm | DevOps - SRE - Cloud Engineer"
+                                content: this.page.meta ? this.page.meta.title : "Portfolio | Ismail"
                             }, {
                                 vmid: "og:description",
                                 property: "og:description",
@@ -3972,7 +3972,7 @@
                     methods: {},
                     metaInfo() {
                         return {
-                            title: "Blog Series | Adityacprtm | DevOps - SRE - Cloud Engineer",
+                            title: "Blog Series | Ismail",
                             meta: [{
                                 vmid: "description",
                                 name: "description",
@@ -3980,7 +3980,7 @@
                             }, {
                                 vmid: "twitter:title",
                                 name: "twitter:title",
-                                content: "Blog Series | Adityacprtm | DevOps - SRE - Cloud Engineer"
+                                content: "Blog Series | Ismail"
                             }, {
                                 vmid: "twitter:description",
                                 name: "twitter:description",
@@ -3988,7 +3988,7 @@
                             }, {
                                 vmid: "og:title",
                                 property: "og:title",
-                                content: "Blog Series | Adityacprtm | DevOps - SRE - Cloud Engineer"
+                                content: "Blog Series | Ismail"
                             }, {
                                 vmid: "og:description",
                                 property: "og:description",
@@ -4076,7 +4076,7 @@
                         return {
                             page: {
                                 meta: {
-                                    title: "Adityacprtm | DevOps - SRE - Cloud Engineer",
+                                    title: "Ismail",
                                     description: "Get to know me, Aditya Chamim Pratama. An enthusiastic newbie, DevOps - SRE - Cloud Engineer."
                                 }
                             },
@@ -4100,7 +4100,7 @@
                     methods: {},
                     metaInfo() {
                         return {
-                            title: this.page.meta ? this.page.meta.title : "Adityacprtm | DevOps - SRE - Cloud Engineer",
+                            title: this.page.meta ? this.page.meta.title : "Ismail",
                             meta: [{
                                 vmid: "description",
                                 name: "description",
@@ -4108,7 +4108,7 @@
                             }, {
                                 vmid: "twitter:title",
                                 name: "twitter:title",
-                                content: this.page.meta ? this.page.meta.title : "Adityacprtm | DevOps - SRE - Cloud Engineer"
+                                content: this.page.meta ? this.page.meta.title : "Ismail"
                             }, {
                                 vmid: "twitter:description",
                                 name: "twitter:description",
@@ -4116,7 +4116,7 @@
                             }, {
                                 vmid: "og:title",
                                 property: "og:title",
-                                content: this.page.meta ? this.page.meta.title : "Adityacprtm | DevOps - SRE - Cloud Engineer"
+                                content: this.page.meta ? this.page.meta.title : "Ismail"
                             }, {
                                 vmid: "og:description",
                                 property: "og:description",
@@ -4374,7 +4374,7 @@
                             blogs: l.data,
                             page: {
                                 meta: {
-                                    title: "Blog | Adityacprtm | DevOps - SRE - Cloud Engineer",
+                                    title: "Blog | ismail",
                                     description: "Read some notes that I wrote while developing something, for sharing and personal reference later. Blog Adityacprtm."
                                 }
                             },
@@ -4387,7 +4387,7 @@
                     methods: {},
                     metaInfo() {
                         return {
-                            title: this.page.meta ? this.page.meta.title : "Blog | Adityacprtm | DevOps - SRE - Cloud Engineer",
+                            title: this.page.meta ? this.page.meta.title : "Blog | Ismail",
                             meta: [{
                                 vmid: "description",
                                 name: "description",
@@ -4395,7 +4395,7 @@
                             }, {
                                 vmid: "twitter:title",
                                 name: "twitter:title",
-                                content: this.page.meta ? this.page.meta.title : "Blog | Adityacprtm | DevOps - SRE - Cloud Engineer"
+                                content: this.page.meta ? this.page.meta.title : "Blog | Ismail"
                             }, {
                                 vmid: "twitter:description",
                                 name: "twitter:description",
@@ -4403,7 +4403,7 @@
                             }, {
                                 vmid: "og:title",
                                 property: "og:title",
-                                content: this.page.meta ? this.page.meta.title : "Blog | Adityacprtm | DevOps - SRE - Cloud Engineer"
+                                content: this.page.meta ? this.page.meta.title : "Blog | Ismail"
                             }, {
                                 vmid: "og:description",
                                 property: "og:description",
